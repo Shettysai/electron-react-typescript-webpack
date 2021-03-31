@@ -137,9 +137,4 @@ electron-react-typescript-base-proj/
 ```
 
 ## Author
-[Wing Chau](https://github.com/iamWing) [@Devtography](https://github.com/Devtography)
-
-## Donation
-I do this open source work for free in my free time. If you'd like me to invest
-more time on it, please consider give me some [donations]. Any donation is
-gonna be a great motivation for me.
+[saikumar shetty] @www.github.com/shetty-sai/  [http://linkedin.com/saikkumar-shetty-98s
