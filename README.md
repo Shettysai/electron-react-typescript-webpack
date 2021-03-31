@@ -137,4 +137,4 @@ electron-react-typescript-base-proj/
 ```
 
 ## Author
-[saikumar shetty] @www.github.com/shetty-sai/  [http://linkedin.com/saikkumar-shetty-98s
+[saikumar shetty] @www.github.com/Shettysai/  [http://linkedin.com/saikkumar-shetty-98s]
