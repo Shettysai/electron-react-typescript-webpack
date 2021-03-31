@@ -8,7 +8,7 @@ work, please [file an issue](https://github.com/Devtography/electron-react-types
 ## Getting started
 ```sh
 // execute
-git clone https://github.com/iamWing/electron-react-typescript-base-proj.git
+git clone https://github.com/Shettysai/electron-react-typescript-webpack.git
 ```
 
 ```json
@@ -124,7 +124,6 @@ electron-react-typescript-base-proj/
 | - src/
 | | - main/             //- Backend modules for the Electron app
 | | | - main.ts         //- Entry point of 'electron-main'
-| | - models/
 | | - renderer/         //- Frontend React components for the Electron app
 | | | - renderer.tsx    //- Entry point of 'electron-renderer'
 | | - utils/            //- Common utilities
@@ -144,12 +143,3 @@ electron-react-typescript-base-proj/
 I do this open source work for free in my free time. If you'd like me to invest
 more time on it, please consider give me some [donations]. Any donation is
 gonna be a great motivation for me.
-
-## License
-Electron React TypeScript Webpack Boilerplate is open source software 
-[licensed as MIT](LICENSE).
-
-[notarization requirements]: https://developer.apple.com/news/?id=04102019a
-[electron-builder #3870]: https://github.com/electron-userland/electron-builder/issues/3870
-[`electron-builder@22.10.4`]: https://github.com/electron-userland/electron-builder/releases/tag/v22.10.4
-[donations]: https://github.com/sponsors/iamWing
